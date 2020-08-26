@@ -26,6 +26,6 @@ jobs:
       uses: aormsby/Fork-Sync-With-Upstream-action@v1
       with:
         # Token for accessing the remote repo with authentication
-        github_token: 885c56830fc7fe1118e1fef2e316a8f7bbe8fd5c
+        #github_token: {INSERT OAUTH ACCESS TOKEN HERE - GENERATE ONE FROM GITHUB}
         # Upstream repository, e.g. => aormsby/Fork-Sync-With-Upstream-action
         upstream_repository:  Neur-Industries-Pvt-Ltd/LearnXR-6thNCERT
